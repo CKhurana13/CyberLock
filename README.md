@@ -81,5 +81,5 @@ The author takes no responsibility for misuse.
 Cheshta Khurana
 B.Tech (Industrial IoT) | Cybersecurity enthusiast
 
-LinkedIn: https://linkedin.com/in/cheshta-khurana
+LinkedIn: https://www.linkedin.com/in/cheshta-khurana-315170332
 GitHub: https://github.com/CKhurana13
